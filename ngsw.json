@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
   "timestamp": 1610793001239,
-  "index": "C:/Program Files/Git/box-commerce-site/index.html",
+  "index": "/box-commerce-site/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,14 +11,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "C:/Program Files/Git/box-commerce-site/4.df7fc9b00d025cdab35f.js",
-        "C:/Program Files/Git/box-commerce-site/favicon.ico",
-        "C:/Program Files/Git/box-commerce-site/index.html",
-        "C:/Program Files/Git/box-commerce-site/main.d239783f4131aa428647.js",
-        "C:/Program Files/Git/box-commerce-site/manifest.webmanifest",
-        "C:/Program Files/Git/box-commerce-site/polyfills.8c151b8375e767ff858f.js",
-        "C:/Program Files/Git/box-commerce-site/runtime.2596f0d3673f4df59ee2.js",
-        "C:/Program Files/Git/box-commerce-site/styles.98fc8d3dfd4dcd551105.css"
+        "/box-commerce-site/4.df7fc9b00d025cdab35f.js",
+        "/box-commerce-site/favicon.ico",
+        "/box-commerce-site/index.html",
+        "/box-commerce-site/main.d239783f4131aa428647.js",
+        "/box-commerce-site/manifest.webmanifest",
+        "/box-commerce-site/polyfills.8c151b8375e767ff858f.js",
+        "/box-commerce-site/runtime.2596f0d3673f4df59ee2.js",
+        "/box-commerce-site/styles.98fc8d3dfd4dcd551105.css"
       ],
       "patterns": []
     },
@@ -30,38 +30,38 @@
         "ignoreVary": true
       },
       "urls": [
-        "C:/Program Files/Git/box-commerce-site/assets/icons/icon-128x128.png",
-        "C:/Program Files/Git/box-commerce-site/assets/icons/icon-144x144.png",
-        "C:/Program Files/Git/box-commerce-site/assets/icons/icon-152x152.png",
-        "C:/Program Files/Git/box-commerce-site/assets/icons/icon-192x192.png",
-        "C:/Program Files/Git/box-commerce-site/assets/icons/icon-384x384.png",
-        "C:/Program Files/Git/box-commerce-site/assets/icons/icon-512x512.png",
-        "C:/Program Files/Git/box-commerce-site/assets/icons/icon-72x72.png",
-        "C:/Program Files/Git/box-commerce-site/assets/icons/icon-96x96.png",
-        "C:/Program Files/Git/box-commerce-site/assets/images/logo.png"
+        "/box-commerce-site/assets/icons/icon-128x128.png",
+        "/box-commerce-site/assets/icons/icon-144x144.png",
+        "/box-commerce-site/assets/icons/icon-152x152.png",
+        "/box-commerce-site/assets/icons/icon-192x192.png",
+        "/box-commerce-site/assets/icons/icon-384x384.png",
+        "/box-commerce-site/assets/icons/icon-512x512.png",
+        "/box-commerce-site/assets/icons/icon-72x72.png",
+        "/box-commerce-site/assets/icons/icon-96x96.png",
+        "/box-commerce-site/assets/images/logo.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "C:/Program Files/Git/box-commerce-site/4.df7fc9b00d025cdab35f.js": "1a6747e21b523cc1ba571e3c790a5c651b92bc99",
-    "C:/Program Files/Git/box-commerce-site/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
-    "C:/Program Files/Git/box-commerce-site/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
-    "C:/Program Files/Git/box-commerce-site/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
-    "C:/Program Files/Git/box-commerce-site/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
-    "C:/Program Files/Git/box-commerce-site/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "C:/Program Files/Git/box-commerce-site/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "C:/Program Files/Git/box-commerce-site/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
-    "C:/Program Files/Git/box-commerce-site/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "C:/Program Files/Git/box-commerce-site/assets/images/logo.png": "d21e61f615bb9ec65894419caab9bdffb8230270",
-    "C:/Program Files/Git/box-commerce-site/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "C:/Program Files/Git/box-commerce-site/index.html": "902824cbad03f34f917e471c17582577ca7604c1",
-    "C:/Program Files/Git/box-commerce-site/main.d239783f4131aa428647.js": "ef42929124ca8aa8df72b44f69d518f924911662",
-    "C:/Program Files/Git/box-commerce-site/manifest.webmanifest": "0f8f4eaa741c635699b00224449fff13af1fea26",
-    "C:/Program Files/Git/box-commerce-site/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
-    "C:/Program Files/Git/box-commerce-site/runtime.2596f0d3673f4df59ee2.js": "e08b64bf7fba84d0643f42e27202383011ec0c47",
-    "C:/Program Files/Git/box-commerce-site/styles.98fc8d3dfd4dcd551105.css": "7553f22557dcbcd3df1f249fa20d65f421c178c6"
+    "/box-commerce-site/4.df7fc9b00d025cdab35f.js": "1a6747e21b523cc1ba571e3c790a5c651b92bc99",
+    "/box-commerce-site/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/box-commerce-site/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/box-commerce-site/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/box-commerce-site/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/box-commerce-site/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/box-commerce-site/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/box-commerce-site/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/box-commerce-site/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/box-commerce-site/assets/images/logo.png": "d21e61f615bb9ec65894419caab9bdffb8230270",
+    "/box-commerce-site/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/box-commerce-site/index.html": "902824cbad03f34f917e471c17582577ca7604c1",
+    "/box-commerce-site/main.d239783f4131aa428647.js": "ef42929124ca8aa8df72b44f69d518f924911662",
+    "/box-commerce-site/manifest.webmanifest": "0f8f4eaa741c635699b00224449fff13af1fea26",
+    "/box-commerce-site/polyfills.8c151b8375e767ff858f.js": "763cd3b34dfa4600ebb9d9588ec7116988e98920",
+    "/box-commerce-site/runtime.2596f0d3673f4df59ee2.js": "e08b64bf7fba84d0643f42e27202383011ec0c47",
+    "/box-commerce-site/styles.98fc8d3dfd4dcd551105.css": "7553f22557dcbcd3df1f249fa20d65f421c178c6"
   },
   "navigationUrls": [
     {
